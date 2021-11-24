@@ -63,8 +63,11 @@ namespace BBC_Bitesize_wage_calculator
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //error not there, dimensions = 234, 201
-            //error there, dimensions = 234, 248
+            //error not there, dimensions = 234, 265
+            //error there, dimensions = 234, 306
+            lbl_normal_pay_rate_output.Text = Convert.ToString(hourlyRate);
+            lbl_overtime_pay_rate_output.Text = Convert.ToString(overtimeRate);
+
         }
 
         private void btn_test1_Click(object sender, EventArgs e)
@@ -97,7 +100,7 @@ namespace BBC_Bitesize_wage_calculator
             catch (FormatException)
             {
                 lbl_error_output.Text = "Sorry, but that input is invalid.";
-                Size = new Size(234, 248);
+                Size = new Size(234, 306);
                 return;
             }
 
@@ -117,13 +120,16 @@ namespace BBC_Bitesize_wage_calculator
                         //Minusing the overtime from the hours worked and wrking out the pay
                         overtimeHours = hoursWorked - normalHours;
                         overtimePay = overtimeHours * overtimeRate;
-
                         //working out normal pay
                         normalPay = normalHours * hourlyRate;
                         
                         //seting total pay
                         totalPay = normalPay + overtimePay;
                         lbl_total_pay_output.Text = Convert.ToString("£" + totalPay);
+
+                        //setting hours worked
+                        lbl_hours_worked_output.Text = Convert.ToString(normalHours);
+                        lbl_overtime_hours_worked.Text = Convert.ToString(overtimeHours);
                     }
                     else
                     {
@@ -153,18 +159,23 @@ namespace BBC_Bitesize_wage_calculator
             if (lbl_error_output.Text == "")
             {
                 //error not there, dimensions = 234, 201
-                Size = new Size(234, 201);
+                Size = new Size(234, 265);
                 
             }
             else if (lbl_error_output.Text != "")
             {
                 //error there, dimensions = 234, 248
-                Size = new Size(234, 248);
+                Size = new Size(234, 306);
             }
             else
             {
                 //something is wrong 
             }
+        }
+
+        private void lbl_total_pay_output_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
