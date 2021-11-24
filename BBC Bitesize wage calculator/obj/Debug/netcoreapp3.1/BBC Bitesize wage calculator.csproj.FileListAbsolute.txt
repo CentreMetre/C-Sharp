@@ -1,0 +1,16 @@
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\bin\Debug\netcoreapp3.1\BBC Bitesize wage calculator.exe
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\bin\Debug\netcoreapp3.1\BBC Bitesize wage calculator.deps.json
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\bin\Debug\netcoreapp3.1\BBC Bitesize wage calculator.runtimeconfig.json
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\bin\Debug\netcoreapp3.1\BBC Bitesize wage calculator.runtimeconfig.dev.json
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\bin\Debug\netcoreapp3.1\BBC Bitesize wage calculator.dll
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\bin\Debug\netcoreapp3.1\BBC Bitesize wage calculator.pdb
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.csproj.AssemblyReference.cache
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC_Bitesize_wage_calculator.Form1.resources
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.csproj.GenerateResource.cache
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.GeneratedMSBuildEditorConfig.editorconfig
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.AssemblyInfoInputs.cache
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.AssemblyInfo.cs
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.csproj.CoreCompileInputs.cache
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.dll
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.pdb
+\\src-src-fs02\Profiles\02002217.V6\C#\BBC Bitesize wage calculator\obj\Debug\netcoreapp3.1\BBC Bitesize wage calculator.genruntimeconfig.cache
