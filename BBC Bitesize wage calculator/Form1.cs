@@ -65,8 +65,8 @@ namespace BBC_Bitesize_wage_calculator
         {
             //error not there, dimensions = 234, 265
             //error there, dimensions = 234, 306
-            lbl_normal_pay_rate_output.Text = Convert.ToString(hourlyRate);
-            lbl_overtime_pay_rate_output.Text = Convert.ToString(overtimeRate);
+            lbl_normal_pay_rate_output.Text = Convert.ToString("£" + hourlyRate);
+            lbl_overtime_pay_rate_output.Text = Convert.ToString("£" + overtimeRate);
 
         }
 
@@ -114,6 +114,7 @@ namespace BBC_Bitesize_wage_calculator
                         normalPay = hoursWorked * hourlyRate;
                         totalPay = normalPay;
                         lbl_total_pay_output.Text = Convert.ToString("£" + totalPay);
+                        lbl_hours_worked_output.Text = Convert.ToString(hoursWorked);
                     }
                     else if (hoursWorked > normalHours) //There is overtime
                     {
@@ -129,7 +130,7 @@ namespace BBC_Bitesize_wage_calculator
 
                         //setting hours worked
                         lbl_hours_worked_output.Text = Convert.ToString(normalHours);
-                        lbl_overtime_hours_worked.Text = Convert.ToString(overtimeHours);
+                        lbl_overtime_hours_worked_output.Text = Convert.ToString(overtimeHours);
                     }
                     else
                     {
