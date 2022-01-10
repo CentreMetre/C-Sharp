@@ -1,0 +1,10 @@
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\bin\Debug\Looking at coordinates in datagridview.exe.config
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\bin\Debug\Looking at coordinates in datagridview.exe
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\bin\Debug\Looking at coordinates in datagridview.pdb
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking at coordinates in datagridview.csproj.AssemblyReference.cache
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking_at_coordinates_in_datagridview.Form1.resources
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking_at_coordinates_in_datagridview.Properties.Resources.resources
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking at coordinates in datagridview.csproj.GenerateResource.cache
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking at coordinates in datagridview.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking at coordinates in datagridview.exe
+D:\Programming\C#\Studying for 2022 test\Looking at coordinates in datagridview\obj\Debug\Looking at coordinates in datagridview.pdb

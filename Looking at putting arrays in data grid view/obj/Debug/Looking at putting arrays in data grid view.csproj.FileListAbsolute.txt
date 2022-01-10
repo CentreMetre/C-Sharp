@@ -1,0 +1,10 @@
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\bin\Debug\Looking at putting arrays in data grid view.exe.config
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\bin\Debug\Looking at putting arrays in data grid view.exe
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\bin\Debug\Looking at putting arrays in data grid view.pdb
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking at putting arrays in data grid view.csproj.AssemblyReference.cache
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking_at_putting_arrays_in_data_grid_view.Form1.resources
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking_at_putting_arrays_in_data_grid_view.Properties.Resources.resources
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking at putting arrays in data grid view.csproj.GenerateResource.cache
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking at putting arrays in data grid view.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking at putting arrays in data grid view.exe
+D:\Programming\C#\Studying for 2022 test\Looking at putting arrays in data grid view\obj\Debug\Looking at putting arrays in data grid view.pdb
